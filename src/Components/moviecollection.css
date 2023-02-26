@@ -1,0 +1,83 @@
+.movies
+{
+    /* Movies */
+
+
+position: absolute;
+width: 107px;
+height: 120px;
+left: 192px;
+top: 620px;
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+line-height: 120px;
+/* identical to box height, or 375% */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+color: black;
+
+}
+
+.nowShow
+{
+    /* Now Showing */
+
+
+position: absolute;
+width: 117px;
+height: 120px;
+left: 1155px;
+top: 625px;
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 120px;
+/* identical to box height, or 667% */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FF9F00;
+}
+
+.comingSoon
+{
+    /* Coming Soon */
+
+
+position: absolute;
+width: 115px;
+height: 120px;
+left: 1293px;
+top: 625px;
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 120px;
+/* identical to box height, or 667% */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+color: black;
+}
+
+.horizontal-line::before {
+    content: "";
+    display: block;
+    border-bottom: 1px solid black;
+    margin-top: 10px;
+  }
+  

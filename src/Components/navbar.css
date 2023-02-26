@@ -1,0 +1,17 @@
+.navbar
+{
+    font-family: 'Raleway';
+    color: white;
+    font-weight: 500;
+    background-color:black ;
+}
+
+.logo
+{
+    width: 160px;
+}
+
+  .navcenter span {
+    margin: 0 30px; /* add horizontal margin to each span */
+  }
+  
