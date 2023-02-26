@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/popcornlk/static/css/main.2858114b.css",
+    "main.js": "/popcornlk/static/js/main.1d090c3d.js",
+    "static/media/Gajaman.jpg": "/popcornlk/static/media/Gajaman.248ac972a41fb5b3562e.jpg",
+    "static/media/Avatar_Bg.jpg": "/popcornlk/static/media/Avatar_Bg.2e70c339957f5a22333a.jpg",
+    "static/media/Varisu.jpg": "/popcornlk/static/media/Varisu.5c4e92f796cb6249e60b.jpg",
+    "static/media/Logo.png": "/popcornlk/static/media/Logo.98c0767422c6c88bce8a.png",
+    "index.html": "/popcornlk/index.html",
+    "main.2858114b.css.map": "/popcornlk/static/css/main.2858114b.css.map",
+    "main.1d090c3d.js.map": "/popcornlk/static/js/main.1d090c3d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2858114b.css",
+    "static/js/main.1d090c3d.js"
+  ]
+}
