@@ -1,9 +1,6 @@
 .movies
 {
-    /* Movies */
-
-
-position: absolute;
+    position: absolute;
 width: 107px;
 height: 120px;
 left: 192px;
@@ -21,14 +18,10 @@ align-items: center;
 text-align: center;
 
 color: black;
-
 }
 
 .nowShow
 {
-    /* Now Showing */
-
-
 position: absolute;
 width: 117px;
 height: 120px;
@@ -51,9 +44,6 @@ color: #FF9F00;
 
 .comingSoon
 {
-    /* Coming Soon */
-
-
 position: absolute;
 width: 115px;
 height: 120px;
@@ -71,13 +61,33 @@ display: flex;
 align-items: center;
 text-align: center;
 
-color: black;
+color: #000000;
 }
 
-.horizontal-line::before {
-    content: "";
-    display: block;
-    border-bottom: 1px solid black;
-    margin-top: 10px;
+.solid {
+    border: none;
+    border-top: 2px solid black;
+    height: 0;
+    margin: 0;
+    width: 100%;
   }
-  
+
+.cards
+{
+    margin: 20px;
+    position: absolute;
+    left: 27px;
+    top: 720px;
+}
+
+.text {
+    font-size: 20px;
+    font-family: 'Raleway';    
+    display: flex;
+    justify-content: center;
+}
+
+.boximg{
+    width: 260px; /* set the width of the image to fill the container */
+    height: auto;/* set the height to auto to maintain the aspect ratio */
+  }

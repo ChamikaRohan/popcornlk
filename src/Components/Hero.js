@@ -1,8 +1,7 @@
 import React from 'react';
 import logo from '../Assests/Logo.png'
-import Avatar from '../Assests/Avatar_Bg.jpg'
+import Avatar from '../Assests/Ava.jpg'
 import Gajaman from '../Assests/Gajaman.jpg'
-import Varisu from '../Assests/Varisu.jpg'
 import './hero.css'
 
 export default function Hero() {
